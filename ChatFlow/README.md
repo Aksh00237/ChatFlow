@@ -1,7 +1,6 @@
 # ChatFlow
 
-ChatFlow ek real-time chat application hai jo MERN stack, Socket.io aur JWT authentication ka use karke banaya gaya hai.  
-Iska goal hai fast, secure aur clean UI ke saath one-to-one messaging provide karna.
+ChatFlow is a real-time messaging application built using the MERN stack, Socket.io, and JWT-based authentication. It is designed to deliver fast, secure, and seamless one-to-one communication with a clean and intuitive user interface.
 
 ---
 
